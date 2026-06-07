@@ -15,6 +15,13 @@ The paper found that across GPT-4o, Gemini 1.5 Pro, Claude 3.5 Sonnet, and Grok-
 
 ---
 
+![Image 1](https://i.ibb.co/ymzPGkbd/photo1.png)
+![Image 2](https://i.ibb.co/ymzPGkbd/photo2.png)
+![Image 3](https://i.ibb.co/ymzPGkbd/photo3.png)
+![Image 4](https://i.ibb.co/ymzPGkbd/photo4.png)
+![Image 5](https://i.ibb.co/ymzPGkbd/photo5.png)
+![Image 6](https://i.ibb.co/ymzPGkbd/photo6.png)
+
 ## Project Structure
 
 ```
