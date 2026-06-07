@@ -1,7 +1,7 @@
 # Compliance Bias in LLMs - Replication & Analysis Toolkit
 
 > **Based on:** *"When Machines Second-Guess Themselves: Compliance Bias, Sycophancy, and the Limits of Self-Correction in Large Language Models"*  
-> Azar Guliyev & Adil Nasirli - Vistula University, Department of Computer Science, June 2026
+> Azar Guliyev (78333) & Adil Nasirli (78012) - Vistula University, Department of Computer Science, June 2026
 
 ---
 
@@ -317,19 +317,3 @@ Inherited from the original paper:
 - Models are updated continuously - results obtained today may differ from the paper's 2025 data.
 
 ---
-
-## Citation
-
-If you use this code in your work, please cite the original paper:
-
-```
-Guliyev, A., & Nasirli, A. (2026). When Machines Second-Guess Themselves:
-Compliance Bias, Sycophancy, and the Limits of Self-Correction in Large
-Language Models. Vistula University, Department of Computer Science.
-```
-
----
-
-## Licence
-
-MIT - free to use, modify, and distribute. See `LICENSE` for details.
